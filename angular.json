@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "custom-directives-app"
+    }
+  },
+  "defaultProject": "custom-directives-app",
+  "cli": {
+    "analytics": false
+  }
 }
